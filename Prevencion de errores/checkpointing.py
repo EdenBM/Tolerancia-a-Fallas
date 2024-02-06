@@ -15,8 +15,7 @@ def funcion_principal():
 
     while intentos < intentos_maximos:
         try:
-            # Aquí iría el código de tu programa
-            # Simulamos un error para propósitos de demostración
+            #Simular error
             raise Exception("Error simulado")
 
         except Exception as e:
