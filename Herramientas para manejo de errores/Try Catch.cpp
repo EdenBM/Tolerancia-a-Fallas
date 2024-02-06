@@ -51,7 +51,7 @@ int main() {
             cerr<<e.what()<< endl;
             // Limpiar el estado de error del cin
             cin.clear();
-            // Ignorar el resto de la entrada hasta la nueva línea
+            // Ignorar el resto de la entrada hasta la nueva linea
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
         }
     }
