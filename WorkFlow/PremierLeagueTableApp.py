@@ -7,7 +7,7 @@ from tabulate import tabulate  # Importa tabulate para imprimir la tabla
 def descargar_datos(url):
     # Descarga los datos de la API
     headers = {
-        'X-RapidAPI-Key': "1f624a3292msh62ce9a89a5ac94cp1780b5jsned12b0cff64a",
+        'X-RapidAPI-Key': "key",
         'X-RapidAPI-Host': "api-football-v1.p.rapidapi.com"
     }
     response = httpx.get(url, headers=headers)
