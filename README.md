@@ -1,4 +1,4 @@
-Computacion Tolerante a Fallas
+**Computacion Tolerante a Fallas**
 
 Eden Abdiel Bautista Martinez 221350524
 
